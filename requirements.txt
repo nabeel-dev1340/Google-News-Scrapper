@@ -1,0 +1,6 @@
+geopy==2.2.0
+gnews==0.2.7
+newspaper==0.1.0.7
+newspaper3k==0.2.8
+pymongo==3.12.3
+spacy==3.4.1
